@@ -1,0 +1,6 @@
+C:\Users\josh\Desktop\SHEEEET\SpaceInvaders-2015-04-13\SpaceInvaders\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\josh\Desktop\SHEEEET\SpaceInvaders-2015-04-13\SpaceInvaders\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\josh\Desktop\SHEEEET\SpaceInvaders-2015-04-13\SpaceInvaders\SpaceInvaders\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\josh\Desktop\SHEEEET\SpaceInvaders-2015-04-13\SpaceInvaders\SpaceInvaders\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\josh\Desktop\SpaceInvaders\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\josh\Desktop\SpaceInvaders\obj\x86\Debug\WindowsFormsApplication1.pdb
